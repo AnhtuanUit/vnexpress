@@ -1,8 +1,8 @@
 const topics = [
-    // {
-    //     type: 'Thoisu',
-    //     element: '#main_meu > div > ul > li:nth-child(4) > a'
-    // },
+    {
+        type: 'Thoisu',
+        element: '#main_meu > div > ul > li:nth-child(4) > a'
+    },
     {
         type: 'Anh',
         element: '#main_meu > div > ul > li:nth-child(23) > a'
